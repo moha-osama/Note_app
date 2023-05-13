@@ -3,7 +3,13 @@ This is an advanced React/TypeScript project for taking and organizing notes wit
 
 ![](https://github.com/moha-osama/Note_app/assets/68459758/657b225a-b0bd-4245-aa8b-5ab76a831251)
 
-
+<h1>Technologies used:</h1>
+      React JS<br/>
+      React Router<br/>
+      TypeScript<br/>
+      Font Awesome<br/>
+      Various react libraries for components<br/>
+      Bootstrap
 
 # Getting Started with Create React App
 
