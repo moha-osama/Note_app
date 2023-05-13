@@ -11,6 +11,8 @@ This is an advanced React/TypeScript project for taking and organizing notes wit
       Various react libraries for components<br/>
       Bootstrap
 
+<h1>Demo👇</h1> [[http://jewelry-store-demo-app.netlify.app/](https://markdown-note-demo-app.netlify.app)]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
